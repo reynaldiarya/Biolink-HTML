@@ -93,6 +93,7 @@ Since this is a static project, you can simply open the `index.html` file. For a
 To make your biolink public, upload the files to a hosting provider.
 
 **Example for GitHub Pages:**
+
 1. Push the code to a GitHub repository.
 2. Go to **Settings > Pages**.
 3. Select the `main` branch as the source and save.
@@ -116,9 +117,9 @@ To make your biolink public, upload the files to a hosting provider.
 
 As a static HTML project, there are no build scripts required.
 
-| Action | Command |
-|---------|-------------|
-| Preview | Open `index.html` in any browser |
+| Action     | Command                             |
+| ---------- | ----------------------------------- |
+| Preview    | Open `index.html` in any browser    |
 | Deployment | Push to any static hosting provider |
 
 ## Contributing
